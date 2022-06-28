@@ -23,7 +23,9 @@
    <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
    <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
    <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">
-  
+  <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+  <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
   
 ## <div  style="display: inline_block"> 
