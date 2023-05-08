@@ -20,12 +20,8 @@
   <img align="center" alt="Giu-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Giu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Giu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-   <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-   <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-   <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">
+   <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg">
   <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Giu-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 </div>
   
